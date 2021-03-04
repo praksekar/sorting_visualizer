@@ -1,0 +1,11 @@
+.barcontainer {
+    background-color: red;
+}
+.vl {
+    float: left;
+    background-color: blue;
+    width: 2px;
+    /*display: inline-block;*/
+    margin: 1px;
+}
+
